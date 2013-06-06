@@ -1,4 +1,6 @@
 superWidgets
 ============
 
-Super Widgets! no more
+Super Widgets!
+
+nothing else
